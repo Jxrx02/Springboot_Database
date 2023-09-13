@@ -17,7 +17,7 @@ public class ElementController  {
     private List<String> id = new ArrayList<>();
     private List<String> vorname = new ArrayList<>();
     private List<String> nachname = new ArrayList<>();
-    String url = "jdbc:sqlite:C:\\Users\\I569045\\OneDrive - SAP SE\\Praxisphase 2\\springboot with html\\demo\\src\\main\\resources\\database\\benutzer";
+    String url = "jdbc:sqlite:C:\\Users\\I569045\\Documents\\GitHub\\Springboot_Database\\demo\\src\\main\\resources\\database\\benutzer";
 
     @GetMapping("/t")
     public String showList(Model model) throws SQLException {
