@@ -5,18 +5,18 @@ java:S1192,"PDefine a constant instead of duplicating this literal "org.sqlite.
 java:S1643g"Use a StringBuilder instead.(΄‡Ν£8ΓΫμ¨1
 >
 java:S1643k"Use a StringBuilder instead.(®Όψÿÿÿÿ8ΓΫμ¨1
-i
-java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΞΫμ¨1
-i
-java:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΪΧάμ¨1
-f
-java:S2095ƒ"HUse try-with-resources or close this "Connection" in a "finally" clause.(ΈΆμβ8ΞΫμ¨1
 e
 java:S2095/"HUse try-with-resources or close this "Connection" in a "finally" clause.(ΈΆμβ8ΪΧάμ¨1
-e
-java:S2095["HUse try-with-resources or close this "Connection" in a "finally" clause.(ΈΆμβ8ΟΫμ¨1
 j
 java:S2095†"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΞΫμ¨1
+f
+java:S2095ƒ"HUse try-with-resources or close this "Connection" in a "finally" clause.(ΈΆμβ8ΞΫμ¨1
+i
+java:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΪΧάμ¨1
+e
+java:S2095["HUse try-with-resources or close this "Connection" in a "finally" clause.(ΈΆμβ8ΟΫμ¨1
+i
+java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(μο‡ΐϋÿÿÿÿ8ΞΫμ¨1
 ‹
 java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(·΅§ώ8ΩΫμ¨1
 G	java:S1061"+Replace this use of System.out by a logger.(³•Η¥8αΫμ¨1

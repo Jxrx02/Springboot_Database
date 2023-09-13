@@ -137,6 +137,9 @@ public class ElementController  {
             //tabelle leeren
             stmt.execute("DELETE FROM nutzer;");
             System.out.println("Daten gelöscht.");
+
+            stmt.execute("INSERT INTO nutzer (vorname, nachname) VALUES (null, null);");
+
             conn.close();
         } catch (Exception e) {
             e.printStackTrace();
